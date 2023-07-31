@@ -1,0 +1,1128 @@
+{
+  "veg": [
+    {
+      "categoryName": "Veg-Starters",
+      "items": [
+        {
+          "name": "Paneer Tikka",
+          "price": 3,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Vegetable Cutlet",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "Aloo Tikki",
+          "price": 220,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Baby Corn Manchurian",
+          "price": 270,
+          "spice_level": "Spicy",
+          "discount": 30,
+          "rating": 4.4
+        },
+        {
+          "name": "Onion Pakoda",
+          "price": 210,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Vegetable Spring Rolls",
+          "price": 240,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.3
+        },
+        {
+          "name": "Mushroom Tikka",
+          "price": 280,
+          "spice_level": "Medium",
+          "discount": 20,
+          "rating": 4.1
+        },
+        {
+          "name": "Gobi Manchurian",
+          "price": 260,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Fry-Items",
+      "items": [
+        {
+          "name": "Aloo Gobi",
+          "price": 280,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Palak Paneer",
+          "price": 290,
+          "spice_level": "Mild",
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Baingan Bharta",
+          "price": 250,
+          "spice_level": "Medium",
+          "discount": 5,
+          "rating": 4.3
+        },
+        {
+          "name": "Aloo Fry",
+          "price": 220,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Gobi Masala",
+          "price": 260,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.1
+        },
+        {
+          "name": "Mushroom Masala",
+          "price": 270,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Kaju Curry","price": 310,"spice_level": "Mild","discount": 0,"rating": 4.2
+        },
+        {
+          "name": "Chana Masala",
+          "price": 250,
+          "spice_level": "Spicy",
+          "discount": 20,
+          "rating": 4.4
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "price": 320,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Dal Makhani",
+          "price": 290,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "newItemId": 33,
+          "name": "apollo-rs",
+          "spice_level": "high",
+          "discount": 10,
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "categoryName": "Gravy-Items",
+      "items": [
+        {"name": "Paneer Tikka Masala","price": 330,"spice_level": "Medium","discount": 0,"rating": [{"name":"sai","r1":"best"},{"name":"Swetha","r1":"bad"}]},{"name": "Malai Kofta","price": 310,"spice_level": "Mild","discount": 15,"rating": [{"name":"lokayya","r1":"most"},{"name":"pandu","r1":"more"}]},
+        {
+          "name": "Navratan Korma",
+          "price": 350,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Matar Paneer",
+          "price": 290,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Palak Paneer",
+          "price": 310,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.5
+        },
+        {
+          "name": "Paneer Lababdar",
+          "price": 330,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Chole Bhature",
+          "price": 280,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Dal Tadka",
+          "price": 260,
+          "spice_level": "Medium",
+          "discount": 5,
+          "rating": 4.2
+        },
+        {
+          "name": "Rajma Masala",
+          "price": 300,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Aloo Matar",
+          "price": 270,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "categoryName": "Rice-Items",
+      "items": [
+        {
+          "name": "VegetableBiryani",
+          "price": 350,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Lemon Rice",
+          "price": 240,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Veg Pulao",
+          "price": 260,
+          "spice_level": "Medium",
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Tamarind Rice",
+          "price": 220,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "Curd Rice",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Coconut Rice",
+          "price": 230,
+          "spice_level": "Medium",
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Bisi Bele Bath",
+          "price": 280,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Peas Pulao",
+          "price": 250,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Jeera Rice",
+          "price": 220,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.1
+        },
+        {
+          "name": "Tomato Rice",
+          "price": 230,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Salads",
+      "items": [
+        {
+          "name": "Greek Salad",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Caesar Salad",
+          "price": 220,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Caprese Salad",
+          "price": 250,
+          "spice_level": "Mild",
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Cucumber Salad",
+          "price": 210,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "Mixed Green Salad",
+          "price": 230,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Waldorf Salad",
+          "price": 220,
+          "spice_level": "Mild",
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Potato Salad",
+          "price": 210,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Fruit Salad",
+          "price": 240,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Broccoli Salad",
+          "price": 230,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.1
+        },
+        {
+          "name": "Mango Avocado Salad",
+          "price": 250,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Soups",
+      "items": [
+        {
+          "name": "Tomato Soup",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Sweet Corn Soup",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "price": 220,
+          "spice_level": "Medium",
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Vegetable Clear Soup",
+          "price": 220,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "Lentil Soup",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Mushroom Soup",
+          "price": 220,
+          "spice_level": "Medium",
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Cream of Spinach Soup",
+          "price": 240,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Tomato Basil Soup",
+          "price": 210,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Miso Soup",
+          "price": 210,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.1
+        },
+        {
+          "name": "Cream of Mushroom Soup",
+          "price": 230,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    }
+  ],
+  "non-veg": [
+    {
+      "categoryName": "Non-Veg-Starters",
+      "items": [
+        {
+          "name": "Chicken 65",
+          "price": 300,
+          "spice_level": "Spicy",
+          "discount": 20,
+          "rating": 4.7
+        },
+        {
+          "name": "Tandoori Chicken",
+          "price": 350,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.5
+        },
+        {
+          "name": "Fish Fry",
+          "price": 320,
+          "spice_level": "Spicy",
+          "discount": 15,
+          "rating": 4.6
+        },
+        {
+          "name": "Chicken Tikka",
+          "price": 330,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Chicken Kebab",
+          "price": 300,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Prawn Fry",
+          "price": 380,
+          "spice_level": "Spicy",
+          "discount": 25,
+          "rating": 4.5
+        },
+        {
+          "name": "Chicken Wings",
+          "price": 350,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 320,
+          "spice_level": "Spicy",
+          "discount": 10,
+          "rating": 4.3
+        },
+        {
+          "name": "Chicken Reshmi Kebab",
+          "price": 340,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Chicken Lollipop",
+          "price": 310,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "categoryName": "Fry-Items",
+      "items": [
+        {
+          "name": "Andhra Chicken Fry",
+          "price": 330,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.7
+        },
+        {
+          "name": "Chicken 555",
+          "price": 350,
+          "spice_level": "Spicy",
+          "discount": 20,
+          "rating": 4.5
+        },
+        {
+          "name": "Prawn Masala Fry",
+          "price": 380,
+          "spice_level": "Spicy",
+          "discount": 15,
+          "rating": 4.6
+        },
+        {
+          "name": "Chicken Ghee Roast",
+          "price": 360,
+          "spice_level": "Spicy",
+          "discount": 10,
+          "rating": 4.4
+        },
+        {
+          "name": "Fish Masala Fry",
+          "price": 340,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Chicken Pepper Fry",
+          "price": 330,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Prawn Pepper Fry",
+          "price": 380,
+          "spice_level": "Medium",
+          "discount": 25,
+          "rating": 4.4
+        },
+        {
+          "name": "Chicken Chettinad",
+          "price": 340,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Chicken 555 Fry",
+          "price": 320,
+          "spice_level": "Spicy",
+          "discount": 10,
+          "rating": 4.5
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 310,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "categoryName": "Gravy-Items",
+      "items": [
+        {
+          "name": "Butter Chicken",
+          "price": 380,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.8
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "price": 350,
+          "spice_level": "Medium",
+          "discount": 20,
+          "rating": 4.7
+        },
+        {
+          "name": "Chicken Kadai",
+          "price": 340,
+          "spice_level": "Spicy",
+          "discount": 15,
+          "rating": 4.6
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": 400,
+          "spice_level": "Spicy",
+          "discount": 10,
+          "rating": 4.5
+        },
+        {
+          "name": "Fish Curry",
+          "price": 380,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Mutton Rogan Josh",
+          "price": 420,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Egg Curry",
+          "price": 320,
+          "spice_level": "Medium",
+          "discount": 25,
+          "rating": 4.5
+        },
+        {
+          "name": "Chicken Vindaloo",
+          "price": 360,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Chicken Handi",
+          "price": 350,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.3
+        },
+        {
+          "name": "Prawn Curry",
+          "price": 400,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Rice-Items",
+      "items": [
+        {
+          "name": "Chicken Biryani",
+          "price": 400,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "price": 380,
+          "spice_level": "Spicy",
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Prawn Biryani",
+          "price": 420,
+          "spice_level": "Spicy",
+          "discount": 10,
+          "rating": 4.6
+        },
+        {
+          "name": "Egg Biryani",
+          "price": 320,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Mutton Biryani",
+          "price": 400,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Fish Biryani",
+          "price": 380,
+          "spice_level": "Spicy",
+          "discount": 20,
+          "rating": 4.6
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 350,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Chicken Pulao",
+          "price": 340,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.5
+        },
+        {
+          "name": "Prawn Fried Rice",
+          "price": 380,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Egg Fried Rice",
+          "price": 320,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "categoryName": "Chinese-Cuisine",
+      "items": [
+        {
+          "name": "Schezwan Chicken",
+          "price": 350,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Hakka Noodles",
+          "price": 300,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Manchurian Chicken",
+          "price": 330,
+          "spice_level": "Spicy",
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Sweet and Sour Chicken",
+          "price": 320,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "Chicken Fried Rice",
+          "price": 350,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Chilli Chicken",
+          "price": 320,
+          "spice_level": "Spicy",
+          "discount": 30,
+          "rating": 4.4
+        },
+        {
+          "name": "Vegetable Manchurian",
+          "price": 280,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Hakka Chicken",
+          "price": 340,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Sesame Chicken",
+          "price": 330,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.1
+        },
+        {
+          "name": "Chicken Noodles",
+          "price": 340,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Seafoods",
+      "items": [
+        {
+          "name": "Grilled Fish",
+          "price": 380,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Butter Garlic Prawns",
+          "price": 400,
+          "spice_level": "Mild",
+          "discount": 15,
+          "rating": 4.2
+        },
+        {
+          "name": "Fish Curry",
+          "price": 360,
+          "spice_level": "Spicy",
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Prawn Biryani",
+          "price": 420,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "Fish Fry",
+          "price": 340,
+          "spice_level": "Spicy",
+          "discount": 30,
+          "rating": 4.4
+        },
+        {
+          "name": "Grilled Prawns",
+          "price": 400,
+          "spice_level": "Spicy",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Fish Tikka",
+          "price": 360,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Chilli Prawns",
+          "price": 380,
+          "spice_level": "Spicy",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Butter Garlic Fish",
+          "price": 400,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "categoryName": "Fast-Foods",
+      "items": [
+        {
+          "name": "Chicken Burger",
+          "price": 200,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Veg Pizza",
+          "price": 250,
+          "spice_level": "Mild",
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Chicken Nuggets",
+          "price": 220,
+          "spice_level": "Medium",
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Paneer Wrap",
+          "price": 210,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.1
+        },
+        {
+          "name": "French Fries",
+          "price": 200,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Veg Sandwich",
+          "price": 230,
+          "spice_level": "Mild",
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Chicken Shawarma",
+          "price": 250,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Egg Roll",
+          "price": 220,
+          "spice_level": "Medium",
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Chicken Popcorn",
+          "price": 240,
+          "spice_level": "Medium",
+          "discount": 10,
+          "rating": 4.1
+        },
+        {
+          "name": "Veg Burger",
+          "price": 230,
+          "spice_level": "Mild",
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    }
+  ],
+  "desserts": [
+    {
+      "categoryName": "Cool-Cakes",
+      "items": [
+        {
+          "name": "Butterscotch Cake",
+          "price": 350,
+          "discount": 0,
+          "rating": 4.5
+        },
+        {
+          "name": "Chocolate Truffle Cake",
+          "price": 400,
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Pineapple Cake",
+          "price": 380,
+          "discount": 5,
+          "rating": 4.6
+        },
+        {
+          "name": "Black Forest Cake",
+          "price": 390,
+          "discount": 0,
+          "rating": 4.1
+        }
+      ]
+    },
+    {
+      "categoryName": "Puddings",
+      "items": [
+        {
+          "name": "Chocolate Pudding",
+          "price": 240,
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Vanilla Pudding",
+          "price": 230,
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Strawberry Pudding",
+          "price": 260,
+          "discount": 0,
+          "rating": 4.2
+        },
+        {
+          "name": "Caramel Pudding",
+          "price": 250,
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Ice-Creams",
+      "items": [
+        {
+          "name": "Vanilla Ice Cream",
+          "price": 150,
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Chocolate Ice Cream",
+          "price": 160,
+          "discount": 10,
+          "rating": 4.4
+        },
+        {
+          "name": "Strawberry Ice Cream",
+          "price": 170,
+          "discount": 5,
+          "rating": 4.3
+        },
+        {
+          "name": "Butterscotch Ice Cream",
+          "price": 180,
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    }
+  ],
+  "cool-drinks": [
+    {
+      "categoryName": "Cool-Drinks",
+      "items": [
+        {
+          "name": "Lemonade",
+          "price": 220,
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Mint Mojito",
+          "price": 250,
+          "discount": 5,
+          "rating": 4.5
+        },
+        {
+          "name": "Watermelon Cooler",
+          "price": 230,
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Iced Tea",
+          "price": 240,
+          "discount": 0,
+          "rating": 4.1
+        }
+      ]
+    },
+    {
+      "categoryName": "Milkshakes",
+      "items": [
+        {
+          "name": "Chocolate Milkshake",
+          "price": 280,
+          "discount": 0,
+          "rating": 4.4
+        },
+        {
+          "name": "Strawberry Milkshake",
+          "price": 270,
+          "discount": 0,
+          "rating": 4.3
+        },
+        {
+          "name": "Vanilla Milkshake",
+          "price": 260,
+          "discount": 10,
+          "rating": 4.2
+        },
+        {
+          "name": "Butterscotch Milkshake",
+          "price": 290,
+          "discount": 0,
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "categoryName": "Kova-Sweets",
+      "items": [
+        {
+          "name": "Kova Peda",
+          "price": 200,
+          "discount": 0,
+          "rating": 4.6
+        },
+        {
+          "name": "Kova Burfi",
+          "price": 250,
+          "discount": 15,
+          "rating": 4.4
+        },
+        {
+          "name": "Kova Laddu",
+          "price": 220,
+          "discount": 5,
+          "rating": 4.2
+        },
+        {
+          "name": "Kova Jalebi",
+          "price": 210,
+          "discount": 0,
+          "rating": 4.3
+        }
+      ]
+    }
+  ]
+}
